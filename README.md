@@ -1,6 +1,31 @@
-# Plan API
+# Starter API
+This is a project template.
 
-This is one of the services of a SaaS-based music streaming service called Swerve Music.
+## Technology Stack
 
+* Typescript
+* Nodejs
+* MongoDB
+* Mongoose
 
-Project template from: https://bitbucket.org/nunopsilva/bulletproof-nodejs-ddd/src/master/
+## Architecture
+
+* Onion Architecture
+* Domain Driven Design
+
+## Running
+
+### Pre-Conditions
+
+* Node installed (Preferably version 14.9.0)
+* Mongodb installed
+
+To install all the dependencies run:
+> npm i
+
+To run the application
+> npm run start 
+
+## References 
+* https://bitbucket.org/nunopsilva/bulletproof-nodejs-ddd/src/master/
+* https://github.com/santiq/bulletproof-nodejs
